@@ -1,0 +1,10 @@
+.eye{
+    position: absolute;
+    background: url(../img/olho-aberto.png);
+    transform: translateY(70%);
+    right: 10%;
+    background-size: cover;
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
